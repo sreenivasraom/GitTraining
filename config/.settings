@@ -1,0 +1,17 @@
+{
+    "projectName": "CRMDemo",
+    "username": "sree@qa1.com",
+    "id": "ed306a60-8752-11e6-aad7-53539e09d3ba",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap1.salesforce.com",
+    "workspace": "E:\\mm-workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
